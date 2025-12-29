@@ -28,7 +28,7 @@ A simple and clean expense tracker built with React that allows users to add inc
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/VH9715/expense-tracker.git
 ```
 ### 2. Install dependencies
 ```bash
@@ -37,3 +37,8 @@ npm install
 ### 2. Run the app
 ```bash
 npm run dev
+```
+Here is a screenshot of the app:
+
+![App Screenshot1](images/Screenshot1.png)
+![App Screenshot2](images/Screenshot2.png)
