@@ -38,7 +38,10 @@ npm install
 ```bash
 npm run dev
 ```
-Here is a screenshot of the app:
 
+# Expense Tracker App Screenshots
 ![App Screenshot1](images/Screenshot1.png)
-![App Screenshot2](images/Screenshot2.png)
+<p float="left">
+  <img src="images/Screenshot2.png" width="45%" />
+  <img src="images/Screenshot3.png" width="45%" />
+</p>
